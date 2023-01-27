@@ -2,7 +2,17 @@
 
    O Projeto Anna Belle é um projeto criado durante uma aula de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem HTML5, sendo uma página WEB de uma agência de modelos, contendo  informações sore a empresa, formas de contato e falando sobre suas campanhas publicitárias.
 
+## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print.png)
+
+## Biografias:
+![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%202.png)
+
+## Campanhas Publicitárias:
+![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%203.png)
+
+## Contato:
+![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%204.png)
 
 ## 🚀 Começando
 
