@@ -43,6 +43,8 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Gabriel Assys <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
+<br/>
+<img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="150" height="150"/>
 
 ---
 ⌨️ com ❤️ por [Gabriel Assys](https://github.com/GABRIEL-ASSYS) 😊
