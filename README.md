@@ -34,7 +34,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 
-## 🛠️ Construído com
+## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para o marcação da página
 
