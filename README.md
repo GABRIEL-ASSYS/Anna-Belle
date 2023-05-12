@@ -5,15 +5,6 @@
 ## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print.png)
 
-## Biografias:
-![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%202.png)
-
-## Campanhas Publicitárias:
-![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%203.png)
-
-## Contato:
-![print da página](https://github.com/GABRIEL-ASSYS/Anna-Belle/blob/main/imagens/print%204.png)
-
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
